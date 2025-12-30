@@ -22,4 +22,4 @@
 
 ### 🌐 Channels
 - 👩🏻‍💻 GitHub: [insecurity22](http://github.com/insecurity22)
-- 📑 블로그: [Velog](https://velog.io/@insecurity22/posts) | [Tistory](https://record22.tistory.com/)
+- 📑 블로그: [Tistory](https://record22.tistory.com/) | [Velog](https://velog.io/@insecurity22/posts)
