@@ -9,12 +9,10 @@
 - 디자이너 · 프론트엔드 · 백엔드 팀과 협업하여 기능의 방향성과 목적을 논의하고, 프론트엔드 관점에서 현실적인 구현 방안을 제시했습니다.
 - 사용자 경험과 팀 생산성을 함께 고려하며, 서비스의 완성도를 높이는 데 기여했습니다.
 
-💼 [프로젝트 및 경력 확인](https://www.notion.so/213d5b8aa4b3806dac23f5e00cd43c1a?source=copy_link)
-
-### 📬 Contact
+### Contact
+- 💼 [프로젝트 및 경력 확인](https://www.notion.so/213d5b8aa4b3806dac23f5e00cd43c1a?source=copy_link)
 - ✉️ Email: [bogyeongs223@gmail.com](mailto:bogyeongs223@gmail.com)
-- 🍀 Instagram: [@__bo0o_](https://www.instagram.com/__bo0o_/#)
 
-### 🌐 Channels
+### Channels
 - 👩🏻‍💻 GitHub: [insecurity22](http://github.com/insecurity22)
 - 📑 블로그: [Tistory](https://record22.tistory.com/) | [Velog](https://velog.io/@insecurity22/posts)
