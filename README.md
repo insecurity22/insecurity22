@@ -1,10 +1,12 @@
 ### Contact.
-- 💼 Project: [경력 및 프로젝트 확인](https://www.notion.so/213d5b8aa4b3806dac23f5e00cd43c1a?source=copy_link)
-- ✉️ Email: [bogyeongs223@gmail.com](mailto:bogyeongs223@gmail.com)
+💼 Project: [경력 및 프로젝트 확인](https://www.notion.so/213d5b8aa4b3806dac23f5e00cd43c1a?source=copy_link)
+
+✉️ Email: [bogyeongs223@gmail.com](mailto:bogyeongs223@gmail.com)
 
 ### Channel.
-- 👩🏻‍💻 GitHub: [insecurity22](http://github.com/insecurity22)
-- 📑 블로그: [Tistory](https://record22.tistory.com/) | [Velog](https://velog.io/@insecurity22/posts)
+👩🏻‍💻 GitHub: [insecurity22](http://github.com/insecurity22)
+
+📑 블로그: [Tistory](https://record22.tistory.com/) | [Velog](https://velog.io/@insecurity22/posts)
 
 ### About Me.
 #### **사용자 경험을 코드로, 팀의 안정성을 구조로 만드는 프론트엔드 개발자**
