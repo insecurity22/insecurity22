@@ -1,14 +1,14 @@
-### Contact.
-**Project**: [경력 및 프로젝트 확인](https://www.notion.so/213d5b8aa4b3806dac23f5e00cd43c1a?source=copy_link)
+## Contact
+🧑‍💻 [경력 및 프로젝트 확인](https://www.notion.so/213d5b8aa4b3806dac23f5e00cd43c1a?source=copy_link)
 
-**Email**: [bogyeongs223@gmail.com](mailto:bogyeongs223@gmail.com)
+📧 [bogyeongs223@gmail.com](mailto:bogyeongs223@gmail.com)
 
-### Channel.
-**GitHub**: [insecurity22](http://github.com/insecurity22)
 
-**Blog**: [Tistory](https://record22.tistory.com/) | [Velog](https://velog.io/@insecurity22/posts)
+## Channel
+📝 [Tistory](https://record22.tistory.com/) | [Velog](https://velog.io/@insecurity22/posts)
 
-### About Me.
+
+## About Me
 #### **사용자 경험을 코드로, 팀의 안정성을 구조로 만드는 프론트엔드 개발자**
 - 5년간 웹 서비스 프론트엔드 개발을 담당하며 다양한 서비스 환경에서 실무 경험을 쌓아왔습니다.
 - React와 TypeScript를 기반으로 서비스 요구사항을 구현하며, 사용자 중심의 UI/UX와 성능 최적화, 유지보수성과 확장성을 고려한 안정적인 코드 설계에 집중해왔습니다.
